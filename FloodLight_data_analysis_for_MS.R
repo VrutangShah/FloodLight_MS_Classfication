@@ -1,5 +1,5 @@
 library(readxl)
-setwd("/Users/shahvr/Documents/GSK/Biogen/Exercise/Part 2_Vrutang")
+setwd("/Users/.....")
 Data <- read.csv("complete_dataset.csv")
 str(Data)
 
